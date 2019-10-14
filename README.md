@@ -1,2 +1,0 @@
-# reduxtut
-Created with CodeSandbox
